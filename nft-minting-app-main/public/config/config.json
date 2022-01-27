@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2ed871A2A88a888B800AEC47D515C77B8cc30f82",
+  "SCAN_LINK": "https://polygonscan.com/token/0x2ed871A2A88a888B800AEC47D515C77B8cc30f82",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "RadioactivePunk",
+  "SYMBOL": "RAP",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/radioactivepunkz-1",
+  "SHOW_BACKGROUND": true
+}
